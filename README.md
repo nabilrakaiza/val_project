@@ -1,2 +1,2 @@
 # Mini Project (about valorant)
-I hope that I end this by the end of semester
+I hope that I can do this by the end of semester
